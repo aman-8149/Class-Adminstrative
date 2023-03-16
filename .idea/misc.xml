@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToDrawableBackgroundType">
+      <map>
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/drawable/shadownew.xml" value="NONE" />
+      </map>
+    </option>
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/drawable/circle_box.xml" value="0.2115" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/drawable/shadow.xml" value="0.1" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/drawable/shadownew.xml" value="0.1335" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_help.xml" value="0.1" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_home_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_library.xml" value="0.1" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_main_activity2_upload.xml" value="0.20416666666666666" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_main_activity3_fetch.xml" value="0.20416666666666666" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_main_activity4_recyclerview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_meeting.xml" value="0.17552083333333332" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/activity_view_pdf.xml" value="0.20416666666666666" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/help_page.xml" value="0.1" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/menu/my_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Data/Android Studio Project/app/src/main/res/menu/navigation_menu.xml" value="0.1703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
